@@ -4,8 +4,6 @@
 
 #### Always a Student for Coding, Developer | Mobile Enthusiast
 
-<img display="float" align="right" width="400" src="https://www.prydwen.gg/static/7ce68d265b64365a600be6766964d672/13677/modernia_full.png">
-
 Lifetime Debugger | Flutter Mobile Developer | Android Developer | Ios Developer
 
 
