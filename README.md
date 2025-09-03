@@ -28,7 +28,7 @@ not an expert and still learning new things
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=Figma&logoColor=white" />
 <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png">
+<img src="https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white">
 
 </div>
 
