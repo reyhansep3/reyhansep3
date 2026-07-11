@@ -6,11 +6,12 @@
 
 Lifetime Debugger | Flutter Mobile Developer | Android Developer | Ios Developer | Backend Developer
 
-
-not an expert and still learning new things
+## not an expert and still learning new things
+Trying to be a tech wizard someday...
 
 - Working for my inner peace.
-- Playing ARPG game.
+- Dark mode theme supporter.
+- UI and QA bestfriend :3
 
 ## Social media :mailbox:
 
@@ -29,10 +30,10 @@ not an expert and still learning new things
 <img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=Figma&logoColor=white" />
 <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-
+<img src="[https://img.shields.io/badge/golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
 </div>
 
 
 
-thankyou for checking out my profile, Have a Great Day
+## thankyou for checking out my profile, Have a Great Day.
