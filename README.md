@@ -6,6 +6,10 @@
 
 Lifetime Debugger | Flutter Mobile Developer | Android Developer | Ios Developer | Backend Developer
 
+<p align="center">
+  <img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="250">
+</p>
+
 ## not an expert and still learning new things
 Trying to be a tech wizard someday...
 
